@@ -1,9 +1,11 @@
-package com.tickets_online.events;
+package com.tickets_online.events.repositories;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Repository;
+
+import com.tickets_online.events.models.Venue;
 
 @Repository
 public class VenueRepository {

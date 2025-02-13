@@ -1,8 +1,10 @@
-package com.tickets_online.events;
+package com.tickets_online.events.repositories;
 
 import java.util.List;
 
 import org.springframework.stereotype.Repository;
+
+import com.tickets_online.events.models.Organizer;
 
 @Repository
 public class OrganizerRepository {
