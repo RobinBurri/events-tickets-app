@@ -1,8 +1,8 @@
-package com.tickets_online.events.repositories;
+package com.tickets_online.tickets.repositories;
 
 import org.springframework.stereotype.Repository;
 
-import com.tickets_online.events.models.Registration;
+import com.tickets_online.tickets.models.Registration;
 
 import java.util.Map;
 import java.util.NoSuchElementException;

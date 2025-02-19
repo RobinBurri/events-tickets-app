@@ -1,4 +1,4 @@
-package com.tickets_online.events.repositories;
+package com.tickets_online.tickets.repositories;
 
 import java.time.LocalDate;
 import java.util.List;
@@ -6,9 +6,9 @@ import java.util.Optional;
 
 import org.springframework.stereotype.Repository;
 
-import com.tickets_online.events.models.Event;
-import com.tickets_online.events.models.Organizer;
-import com.tickets_online.events.models.Venue;
+import com.tickets_online.tickets.models.Event;
+import com.tickets_online.tickets.models.Organizer;
+import com.tickets_online.tickets.models.Venue;
 
 @Repository
 public class EventRepository {

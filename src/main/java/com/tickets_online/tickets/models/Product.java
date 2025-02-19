@@ -1,4 +1,4 @@
-package com.tickets_online.events.models;
+package com.tickets_online.tickets.models;
 
 import java.math.BigDecimal;
 
